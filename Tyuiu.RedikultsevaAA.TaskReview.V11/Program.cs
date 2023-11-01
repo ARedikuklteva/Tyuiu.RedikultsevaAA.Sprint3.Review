@@ -16,7 +16,7 @@ namespace Tyuiu.RedikultsevaAA.TaskReview.V11
             Console.Title = "Спринт-Review | Выполнила: Редикульцева А.А. | АСОиУб 23-1";
             Console.WriteLine("******************************************************************************");
             Console.WriteLine("* Спринт-Review                                                              *");
-            Console.WriteLine("* Вариант #20                                                                *");
+            Console.WriteLine("* Вариант #11                                                                *");
             Console.WriteLine("* Выполнила: Редикульцева А.А. | АСОиУб 23-1                                 *");
             Console.WriteLine("******************************************************************************");
             Console.WriteLine("* УСЛОВИЕ:                                                                   *");
